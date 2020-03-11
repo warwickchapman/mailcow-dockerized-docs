@@ -6,7 +6,7 @@ To view the logs of all mailcow: dockerized related containers, you can use `doc
 To view the logs of a specific service you can use `docker-compose logs [options] $service_name`
 
 !!! info
-    The available options for the command **docker-compose logs** are:
+    The available options for the command **docker logs** are:
 
     - **--no-color**: Produce monochrome output.
     - **-f**: Follow the log output.
